@@ -1,0 +1,2 @@
+Trend Test Statistic: -0.6000
+P-value: 0.1361
